@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-08 18:05:57" Creator="Researcher" Comments="" ID="7eda956051dfc2c3e353fd24d46f029a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-15 20:35:31" Creator="Researcher" Comments="" ID="8633a4eab852803bc6e44182e5eeca41">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MW</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -29,6 +29,8 @@
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for MKS MW Series matching networks</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for MKS MW Series matching networks.
+
+Tested on MKS MW-10D.
 
 Requirements
 LabVIEW 2015 and higher.
@@ -303,7 +305,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4922950D70F9E43D8250B0CB726DC33</GUID>
+      <GUID>3213A48117B31856B1E505FB2E121453</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -464,7 +466,7 @@ Features
         <Path>Public\Configure\Configure Control Mode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>59A88FC35C04349B1748ECF2A28017DB</GUID>
+      <GUID>23508976E54C37C9BA77DAF673BEB448</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -513,7 +515,7 @@ Features
         <Path>Public\Action-Status\Read Power On Time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>876AEAF43CEE81A51746B59FB00730F1</GUID>
+      <GUID>E632E22DFD61595AE8C60B39E66706D1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -548,7 +550,7 @@ Features
         <Path>Public\Data\Read Configuration and Measurements.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>03E54FAC1F6ED68A5A36DC2F8D0A3AF0</GUID>
+      <GUID>2EB5A644189808EC11B65B5D795B3655</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -611,7 +613,7 @@ Features
         <Path>Public\Utility\Read Software Version.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7F51252D3F01B20834F55F75DC054EA6</GUID>
+      <GUID>F62ECF2A89160E7563BC0CD55DD13B88</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
