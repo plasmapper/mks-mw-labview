@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-20 17:14:46" Creator="Researcher" Comments="" ID="a03c879546f6c36cd8620636fb1312c3">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-20 17:55:27" Creator="Researcher" Comments="" ID="db73b3fcdbd2db5048f6e5927ca91d1f">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MW</Package_File_Name>
     <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\build\mks-mw-labview</Library_Output_Folder>
+    <Library_Output_Folder>..\build</Library_Output_Folder>
     <Company_Name>plasmapper</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -305,7 +305,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2594CE7EBBC50A70C5EF997E786E9F00</GUID>
+      <GUID>879E62BCF35739F71D81BB494688A62D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -466,7 +466,7 @@ Features
         <Path>Public\Configure\Configure Control Mode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>019E7992131342F6709BEF9F49412D50</GUID>
+      <GUID>6B0C5734DDC6E8C875E8005FACE3B299</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -501,7 +501,7 @@ Features
         <Path>Public\Action-Status\Read Faults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D71FEC850D7E588070C1B5ECC93253AD</GUID>
+      <GUID>15992F70E66F8158833986CA7523739B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -536,7 +536,7 @@ Features
         <Path>Public\Data\Read Configuration and Measurements.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2810BA8B79EAF50E6975FA691518A3E1</GUID>
+      <GUID>8481D06CEC2FFCE4FDDBAA67A0226C13</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -613,7 +613,7 @@ Features
         <Path>Public\Utility\Read Power On Time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F475ACE20C5117739729CD359AAB27B1</GUID>
+      <GUID>BC32C6D87001E75A049F228E60E06573</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
