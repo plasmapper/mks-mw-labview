@@ -1,5 +1,5 @@
 # MKS MW Series Library for LabVIEW
-LabVIEW instrument driver for MKS MW Series matching networks.
+LabVIEW instrument driver for MKS MW series matching networks.
 
 Tested on MKS MW-10D.
 
