@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-22 11:56:20" Creator="Researcher" Comments="" ID="bad7ceea4c35bfa879f8e3e130f57bb8">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:58:52" Creator="Researcher" Comments="" ID="6ed941f8892a1c3f2f4a937f8f94b4e1">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MW</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -305,7 +305,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>36F1B45EEB3ABFC5F542C889010F954C</GUID>
+      <GUID>111BDCEA760B02BAC22987FF240971B1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -466,7 +466,7 @@ Features
         <Path>Public\Configure\Configure Control Mode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C620BC27ABBD535B4B25A20D9AC75BC</GUID>
+      <GUID>65F8AFB6E736432462E0747E1461A282</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -501,7 +501,7 @@ Features
         <Path>Public\Action-Status\Read Faults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5721EDB28F5E2D65D2E915734240FFA2</GUID>
+      <GUID>C37D9B19A4950276F351DAF58CC309C8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -536,7 +536,7 @@ Features
         <Path>Public\Data\Read Configuration and Measurements.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D759ED10D4581B55DF966FA06F3B204</GUID>
+      <GUID>F93D8F6BEFABE6AF366A3DC866A9A2BC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -613,7 +613,7 @@ Features
         <Path>Public\Utility\Read Power On Time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A1592D36ACD9E919913BCE15CF2A5EC3</GUID>
+      <GUID>25FAB6A1E95217949D3593A5EE01F495</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
