@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:51:21" Creator="Researcher" Comments="" ID="87fba06b0cc1cfd3ad07cd91efe114e7">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:06:07" Creator="Researcher" Comments="" ID="0e793050edef1df6d0931f77fd46df20">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MW</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -41,7 +41,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/mks-mw-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -302,7 +302,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>00F78039398CD02C55C05A709F319B01</GUID>
+      <GUID>5D681BFFF1E9AFCCB1F1787214938B0D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -463,7 +463,7 @@ Features
         <Path>Public\Configure\Configure Control Mode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0FE29BE7074A466EAEF1B8F61E9535A</GUID>
+      <GUID>25BFC4DCE6825C72C9EC74F7A2D0EDE7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -498,7 +498,7 @@ Features
         <Path>Public\Action-Status\Read Faults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09FA0EDFBDCE0475D4227102D7EF4C9C</GUID>
+      <GUID>E25847E610A12492FBA101BC6D8222E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -533,7 +533,7 @@ Features
         <Path>Public\Data\Read Configuration and Measurements.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ECFA2122F1D709238FB809D48F71894E</GUID>
+      <GUID>427F5F4B8EACA855A200B85DEF24732F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -610,7 +610,7 @@ Features
         <Path>Public\Utility\Read Power On Time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C627CB88FD4C337212F99D0F18591C60</GUID>
+      <GUID>BADDE0CA5A717FE38C984967079A1752</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
